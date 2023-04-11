@@ -1,6 +1,9 @@
 #include "main.h"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin
 /**
  * _abs - computes the absolute value of an integer
  * @n: the int to check
@@ -14,3 +17,7 @@ int _abs(int n)
 	}
 	return (-n);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin
